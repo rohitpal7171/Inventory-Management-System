@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inventory-Management-System/static/css/main.d5b18751.chunk.css",
+    "main.js": "/Inventory-Management-System/static/js/main.540e4607.chunk.js",
+    "main.js.map": "/Inventory-Management-System/static/js/main.540e4607.chunk.js.map",
+    "runtime~main.js": "/Inventory-Management-System/static/js/runtime~main.5058afa7.js",
+    "runtime~main.js.map": "/Inventory-Management-System/static/js/runtime~main.5058afa7.js.map",
+    "static/js/2.f7e5ace2.chunk.js": "/Inventory-Management-System/static/js/2.f7e5ace2.chunk.js",
+    "static/js/2.f7e5ace2.chunk.js.map": "/Inventory-Management-System/static/js/2.f7e5ace2.chunk.js.map",
+    "index.html": "/Inventory-Management-System/index.html",
+    "precache-manifest.dc02574ec14440bd989811ab8788baab.js": "/Inventory-Management-System/precache-manifest.dc02574ec14440bd989811ab8788baab.js",
+    "service-worker.js": "/Inventory-Management-System/service-worker.js",
+    "static/css/main.d5b18751.chunk.css.map": "/Inventory-Management-System/static/css/main.d5b18751.chunk.css.map"
+  }
+}
